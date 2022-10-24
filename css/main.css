@@ -24,7 +24,18 @@ body {
   justify-content: flex-end;
  }
 
- img{
+ /* img{
   border: solid;
- }
+ } */
+
+ .item{
+    
+  /* background: #aeeff2; */
+  background: linear-gradient(to bottom, white 0%, black 100%);
+  
+}
+
+h3 {
+  color:white;
+}
  
